@@ -1,8 +1,7 @@
 ## #1 What is Predictive Analysis?
 #### Predictive Analysis for Supply Chain
 
-
-### Next up
+##### Next up
 
 ## #2 What types of problems lend itself to Predictive Analysis? 
 #### Predictive Analysis for Supply Chain
@@ -24,3 +23,22 @@
 
 ##### Next up
 
+## #6 Why supply chain savings is so elusive? 
+#### Predictive Analysis for Supply Chain
+
+##### Next up
+
+## #7 Your statistical forecasting is unsatisfactory. What should you do?
+#### Predictive Analysis for Supply Chain
+
+##### Next up
+
+## #8 If you were asked to classify your suppliers how would you do it?
+#### Predictive Analysis for Supply Chain
+
+##### Next up
+
+## #9 Can you work without a perfect master data?
+#### Predictive Analysis for Supply Chain
+
+##### Next up
