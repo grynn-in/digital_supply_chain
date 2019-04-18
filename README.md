@@ -4,7 +4,7 @@
 
 ### Next up
 
-# What types of problems lend itself to Predictive Analysis? 
+## What types of problems lend itself to Predictive Analysis? 
 ### Predictive Analysis for Supply Chain
 
 
